@@ -2,7 +2,6 @@
 
 numero = 0
 
-# Enquanto o número for menor ou igual a 8000
 while numero <= 8000:
     print(numero)
     numero += 10
